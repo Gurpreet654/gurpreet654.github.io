@@ -1,4 +1,4 @@
-# gurpreet654.github.io
+# my_web
 <!DOCTYPE html>
 <html>
 
